@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a88d67c-35ea-41be-a2e4-a748131e246e" name="Changes" comment="GetTest">
-      <change beforePath="$PROJECT_DIR$/src/test/java/GetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GetTest.java" afterDir="false" />
+    <list default="true" id="0a88d67c-35ea-41be-a2e4-a748131e246e" name="Changes" comment="GetTestAll">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     "settings.editor.selected.configurable": "project.scopes"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.GetTest.testAPI">
+  <component name="RunManager" selected="JUnit.ParsJsonTest.testParsJSON">
     <configuration name="GetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="api-test-example-restassured" />
       <option name="PACKAGE_NAME" value="" />
@@ -76,8 +76,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ParsJsonTest.testParsJSON" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-test-example-restassured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParsJsonTest" />
+      <option name="METHOD_NAME" value="testParsJSON" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ParsJsonTest.testParsJSON" />
         <item itemvalue="JUnit.GetTest.testAPI" />
         <item itemvalue="JUnit.GetTest" />
         <item itemvalue="JUnit.HelloFromTest" />
@@ -149,13 +160,22 @@
       <option name="project" value="LOCAL" />
       <updated>1708155280784</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="GetTestAll">
+      <option name="closed" value="true" />
+      <created>1708155341440</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708155341440</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HeloFrom" />
     <MESSAGE value="HeloFrom2" />
     <MESSAGE value="GetTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="GetTest" />
+    <MESSAGE value="GetTestAll" />
+    <option name="LAST_COMMIT_MESSAGE" value="GetTestAll" />
   </component>
 </project>
