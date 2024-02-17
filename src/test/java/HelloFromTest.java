@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
 
-public class HeloFromTest {
+public class HelloFromTest {
 
     @Test
     public void testHeloFrom (){
