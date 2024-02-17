@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a88d67c-35ea-41be-a2e4-a748131e246e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/HeloFromTest.java" afterDir="false" />
+    <list default="true" id="0a88d67c-35ea-41be-a2e4-a748131e246e" name="Changes" comment="HeloFrom">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +45,10 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="HeloFromTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HelloFromTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="api-test-example-restassured" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HeloFromTest" />
+      <option name="MAIN_CLASS_NAME" value="HelloFromTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,7 +56,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HeloFromTest" />
+        <item itemvalue="JUnit.HelloFromTest" />
       </list>
     </recent_temporary>
   </component>
@@ -69,6 +69,35 @@
       <option name="presentableId" value="Default" />
       <updated>1708152121232</updated>
     </task>
+    <task id="LOCAL-00001" summary="HeloFrom">
+      <option name="closed" value="true" />
+      <created>1708153554206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708153554206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HeloFrom">
+      <option name="closed" value="true" />
+      <created>1708153727980</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708153727980</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HeloFrom">
+      <option name="closed" value="true" />
+      <created>1708153772314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708153772314</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HeloFrom" />
+    <option name="LAST_COMMIT_MESSAGE" value="HeloFrom" />
   </component>
 </project>
