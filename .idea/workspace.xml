@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a88d67c-35ea-41be-a2e4-a748131e246e" name="Changes" comment="HeloFrom2" />
+    <list default="true" id="0a88d67c-35ea-41be-a2e4-a748131e246e" name="Changes" comment="GetTest">
+      <change beforePath="$PROJECT_DIR$/src/test/java/GetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GetTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +32,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.GetTest.executor": "Run",
     "JUnit.HelloFromTest.executor": "Run",
     "JUnit.HeloFromTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -110,12 +113,29 @@
       <option name="project" value="LOCAL" />
       <updated>1708153914993</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HeloFrom2">
+      <option name="closed" value="true" />
+      <created>1708154510365</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708154510365</updated>
+    </task>
+    <task id="LOCAL-00006" summary="GetTest">
+      <option name="closed" value="true" />
+      <created>1708154679759</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708154679759</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HeloFrom" />
     <MESSAGE value="HeloFrom2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HeloFrom2" />
+    <MESSAGE value="GetTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="GetTest" />
   </component>
 </project>
