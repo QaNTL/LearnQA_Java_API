@@ -3,6 +3,7 @@ import io.restassured.RestAssured;
 import org.junit.jupiter.api.Test;
 
 public class GetTest {
+
     @Test
     public void testAPI(){
         Response response=RestAssured
